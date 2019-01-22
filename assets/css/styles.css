@@ -18,6 +18,31 @@ body {
     margin-top: -15px;
 }
 
+ /* hero */
+ #hero {
+     background: url('../img/helpinghand.jpg') 50% 0 repeat fixed;
+     min-height: 500px;
+     padding: 40px 0;
+     color: rgb(0,136,255);
+     -webkit-font-smoothing: antialiased;
+     text-rendering: optimizeLegibility;
+ }
+
+ #hero_box {
+     background: rgba(0 ,0 ,0 , 0.3);
+     border-radius: 25px;
+ }
+
+ .hero_text {
+    margin-top: 50px;
+ }
+
+
+.hero_title, .hero_body, .hero_button{
+    text-align: center;
+   
+ }
+
 /* Media Queries */
 @media screen and ( max-width : 991px ) {
     #instructor .container {
