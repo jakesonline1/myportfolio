@@ -29,7 +29,7 @@ body {
  }
 
  #hero_box {
-     background: rgba(0 ,0 ,0 , 0.3);
+     background: rgba(0,0,0, 0.75);
      border-radius: 25px;
  }
 
@@ -40,6 +40,9 @@ body {
 
 .hero_title, .hero_body, .hero_button{
     text-align: center;
+    font-weight: bold;
+    
+
    
  }
 
