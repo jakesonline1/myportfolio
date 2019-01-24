@@ -46,6 +46,27 @@ body {
    
  }
 
+ /* portfolio home section */
+
+ .port_word_section {
+     margin-top: 75px;
+     margin-bottom: 75px;
+ }
+
+.portsectionhead {
+    text-align: center;
+}
+
+.portboarder {
+    border: 1px solid black;
+    height: 150px;
+    width: 150pxgit;
+}
+
+ .laptopimg {
+     margin-top: 190px;
+ }
+
 /* Media Queries */
 @media screen and ( max-width : 991px ) {
     #instructor .container {
