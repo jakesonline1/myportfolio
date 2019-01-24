@@ -23,7 +23,7 @@ body {
      background: url('../img/helpinghand.jpg') 50% 0 repeat fixed;
      min-height: 500px;
      padding: 40px 0;
-     color: rgb(0,136,255);
+     color: white;
      -webkit-font-smoothing: antialiased;
      text-rendering: optimizeLegibility;
  }
